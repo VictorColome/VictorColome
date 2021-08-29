@@ -1,7 +1,7 @@
 # Hello there 👋
 
 ☁️ Working as a Data Engineer at [ClearPeaks](https://www.clearpeaks.com/).  
-🤓 In my free time I develop scripts in LUA in FiveM - Founder and Head programmer of roleplay server ExodoRP.  
+🤓 In my free time I develop LUA scripts in FiveM - Founder and former Head programmer of GTAV roleplay server ExodoRP.  
 🎓 Studying a Data Science Msc at UOC.
 
 ## 💻 Technologies & Stacks
