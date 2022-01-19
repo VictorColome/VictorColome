@@ -2,7 +2,7 @@
 
 ☁️ Working as a Data Engineer at [ClearPeaks](https://www.clearpeaks.com/).  
 🤓 In my free time I develop LUA scripts in FiveM - Founder and former Head programmer of GTAV roleplay server ExodoRP.  
-🎓 Studying a Data Science Msc at UOC.
+🎓 Data Science Msc & Computer Science degree.
 
 ## 💻 Technologies & Stacks
 
@@ -13,8 +13,9 @@
 ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3D3D3D)
 
 ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=3D3D3D)
-![](https://img.shields.io/badge/Cloudera-informational?style=flat&logo=cloudera&logoColor=white&color=3D3D3D)
+![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=3D3D3D)
 ![](https://img.shields.io/badge/Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=3D3D3D)
+![](https://img.shields.io/badge/Cloudera-informational?style=flat&logo=cloudera&logoColor=white&color=3D3D3D)
 
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=3D3D3D)
 ![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=3D3D3D)
