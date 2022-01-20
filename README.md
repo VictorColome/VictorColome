@@ -21,6 +21,10 @@
 ![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=3D3D3D)
 ![](https://img.shields.io/badge/Sublime_Text-informational?style=flat&logo=sublimetext&logoColor=white&color=3D3D3D)
 
+## 📃 Certifications
+
+<img alt="Microsoft Azure Data Engineer Associate" title="Microsoft Azure Data Engineer Associate" src="https://www.pue.es/Areas/Training/Resources/Images/Sections/Courses/Providers/Microsoft/Categories/Azure/badge-dp-203.png" width="64">
+
 ## ✍️ Blogs
 
 - [Building a Cloud Data Warehouse with BigQuery](https://www.clearpeaks.com/building-a-cloud-data-warehouse-with-bigquery/)
