@@ -23,7 +23,7 @@
 
 ## 📃 Certifications
 
-<img alt="Microsoft Azure Data Engineer Associate" title="Microsoft Azure Data Engineer Associate" src="https://www.pue.es/Areas/Training/Resources/Images/Sections/Courses/Providers/Microsoft/Categories/Azure/badge-dp-203.png" width="64">
+[<img alt="Microsoft Azure Data Engineer Associate" title="Microsoft Azure Data Engineer Associate" src="https://www.pue.es/Areas/Training/Resources/Images/Sections/Courses/Providers/Microsoft/Categories/Azure/badge-dp-203.png" width="64">](https://www.credly.com/badges/6da610d2-8021-4954-bc2d-37a6347caf4d/linked_in)
 
 ## ✍️ Blogs
 
