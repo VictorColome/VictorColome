@@ -29,6 +29,7 @@
 
 - [Building a Cloud Data Warehouse with BigQuery](https://www.clearpeaks.com/building-a-cloud-data-warehouse-with-bigquery/)
 - [Data Lake Querying in AWS – Optimising Data Lakes with Parquet](https://www.clearpeaks.com/data-lake-querying-in-aws-optimising-data-lakes-with-parquet/)
+- [Data governance with Azure Purview](https://www.clearpeaks.com/data-governance-with-azure-purview)
 
 ## 📫 Contact
 
