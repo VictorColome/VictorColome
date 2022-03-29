@@ -23,13 +23,15 @@
 
 ## 📃 Certifications
 
-[<img alt="Microsoft Azure Data Engineer Associate" title="Microsoft Azure Data Engineer Associate" src="https://www.pue.es/Areas/Training/Resources/Images/Sections/Courses/Providers/Microsoft/Categories/Azure/badge-dp-203.png" width="64">](https://www.credly.com/badges/6da610d2-8021-4954-bc2d-37a6347caf4d/linked_in)
+[<img alt="Microsoft Azure Data Engineer Associate" title="Microsoft Azure Data Engineer Associate" src="https://images.credly.com/size/680x680/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" width="64">](https://www.credly.com/badges/6da610d2-8021-4954-bc2d-37a6347caf4d/public_url)
+[<img alt="Microsoft Azure Fundamentals" title="Microsoft Azure Fundamentals" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="64">](https://www.credly.com/badges/00751b4a-1722-45a6-a505-d9a32dfb80c1/public_url)
 
 ## ✍️ Blogs
 
 - [Building a Cloud Data Warehouse with BigQuery](https://www.clearpeaks.com/building-a-cloud-data-warehouse-with-bigquery/)
 - [Data Lake Querying in AWS – Optimising Data Lakes with Parquet](https://www.clearpeaks.com/data-lake-querying-in-aws-optimising-data-lakes-with-parquet/)
 - [Data governance with Azure Purview](https://www.clearpeaks.com/data-governance-with-azure-purview)
+- [Kubernetes for Managing Microservices](https://www.clearpeaks.com/kubernetes-for-managing-microservices/)
 
 ## 📫 Contact
 
