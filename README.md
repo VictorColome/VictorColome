@@ -32,6 +32,7 @@
 - [Data Lake Querying in AWS – Optimising Data Lakes with Parquet](https://www.clearpeaks.com/data-lake-querying-in-aws-optimising-data-lakes-with-parquet/)
 - [Data governance with Azure Purview](https://www.clearpeaks.com/data-governance-with-azure-purview)
 - [Kubernetes for Managing Microservices](https://www.clearpeaks.com/kubernetes-for-managing-microservices/)
+- [Cost Management in Google Cloud Platform](https://www.clearpeaks.com/cost-management-in-google-cloud-platform/)
 
 ## 📫 Contact
 
