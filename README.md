@@ -33,6 +33,7 @@
 - [Data governance with Azure Purview](https://www.clearpeaks.com/data-governance-with-azure-purview)
 - [Kubernetes for Managing Microservices](https://www.clearpeaks.com/kubernetes-for-managing-microservices/)
 - [Cost Management in Google Cloud Platform](https://www.clearpeaks.com/cost-management-in-google-cloud-platform/)
+- [Automating Google Cloud Platform Cost Monitoring](https://www.clearpeaks.com/automating-google-cloud-platform-cost-monitoring/)
 
 ## 📫 Contact
 
